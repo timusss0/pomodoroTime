@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/timusss0/pomodoroTime/issues"
   },
-  "homepage": "https://github.com/timusss0/pomodoroTime#readme"
+  "homepage": "https://github.com/timusss0/pomodoroTime#readme",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "node-notifier": "^10.0.1"
+  }
 }
