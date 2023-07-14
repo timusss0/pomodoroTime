@@ -1,0 +1,19 @@
+{
+  "name": "pomodorotime",
+  "version": "1.0.0",
+  "description": "This project can help you with time management using the pomodoro technique",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timusss0/pomodoroTime.git"
+  },
+  "author": "tia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timusss0/pomodoroTime/issues"
+  },
+  "homepage": "https://github.com/timusss0/pomodoroTime#readme"
+}
